@@ -1,6 +1,6 @@
 # Investigation-on-Neural-Network-for-RSSI-based-localization
-A neural network model is used for investigation of localization accuracy  
-The concept of neural network is used for indoor localization, In our previous work a embedded and Machine learning approaches we have studied, this work is the extension of the previous work in order to obtained a better performance of the model, so Matlab is used to train the neural network model when we have investigated a different algorithm for training and testing  which describe below, We have trained the model on 10 hidden neurons with 4x768 input and 2x768 output matrix.
+A neural network model is used for investigation of localization accuracy.  
+The concept of neural network is used for indoor localization, In our previous work a embedded and Machine learning approaches we have studied, this work is the extension of the previous work in order to obtained a better performance of the model, so Matlab is used to train the neural network model where we have investigated a different algorithm for training and testing, which describes below, We have trained the model on 10 hidden neurons with 4x768 input and 2x768 output matrix.
 The RSSI value is collected with median of 12 samples for each reading. The data is splitted in three sections as: 
  
 ## 1. Training 
