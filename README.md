@@ -27,7 +27,7 @@ These have no effect on training and so provide an independent measure of networ
 ![image](https://user-images.githubusercontent.com/32608510/39860688-d0386462-545b-11e8-9305-2cb87cb70d62.png)
 
 
-# 3. Training of model with 
+# 3. Training of model with Bayesian regularization 
 
 # 3.1 Error Histogram 
 ![image](https://user-images.githubusercontent.com/32608510/39861337-edc2baee-545d-11e8-95f3-a5ed0e5c750b.png)
