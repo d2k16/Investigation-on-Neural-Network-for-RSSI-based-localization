@@ -11,7 +11,7 @@ These are used to measure network generalization, and to halt training when gene
 These have no effect on training and so provide an independent measure of network performance during and after training, 15% of the data is taken for testing.
 
 
-# NN Model with input and output Levenberg-Marquardt and Bayesian regularization model 
+# NN Model with input and output for Levenberg-Marquardt and Bayesian regularization algorithms. 
 ![image](https://user-images.githubusercontent.com/32608510/39860696-d98c4772-545b-11e8-83dc-21bc89c39ef0.png)
 
 # 2. Training of model using Levenberg-Marquardt backpropagation 
